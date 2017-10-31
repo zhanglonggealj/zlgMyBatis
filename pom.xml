@@ -293,5 +293,6 @@
 		<module>zlgmystatis-util</module>
 		<module>zlgmystatis-crud</module>
 		<module>zlgmystatis-dsql</module>
+		<module>zlgmystatis-cache</module>
 	</modules>
 </project>

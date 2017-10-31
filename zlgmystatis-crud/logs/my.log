@@ -1,3 +1,15 @@
 2017-10-31 06:14:23,046 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - ==>  Preparing: INSERT INTO news(title,pub_date,note) VALUES (?,?,?) 
 2017-10-31 06:14:23,089 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - ==> Parameters: 新闻标题 - 515065402(String), 2017-10-31 06:14:22.385(Timestamp), 新闻内容 - 515065402(String)
 2017-10-31 06:14:23,106 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - <==    Updates: 1
+2017-10-31 21:05:44,509 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - ==>  Preparing: INSERT INTO news(title,pub_date,note) VALUES (?,?,?) 
+2017-10-31 21:05:44,543 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - ==> Parameters: 新闻标题 - 55640024(String), 2017-10-31 21:05:43.933(Timestamp), 新闻内容 - 55640024(String)
+2017-10-31 21:05:44,544 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - <==    Updates: 1
+2017-10-31 21:05:50,154 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - ==>  Preparing: INSERT INTO news(title,pub_date,note) VALUES (?,?,?) 
+2017-10-31 21:05:50,185 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - ==> Parameters: 新闻标题 - 1512818969(String), 2017-10-31 21:05:49.684(Timestamp), 新闻内容 - 1512818969(String)
+2017-10-31 21:05:50,186 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - <==    Updates: 1
+2017-10-31 21:05:55,261 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - ==>  Preparing: INSERT INTO news(title,pub_date,note) VALUES (?,?,?) 
+2017-10-31 21:05:55,291 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - ==> Parameters: 新闻标题 - 1388619676(String), 2017-10-31 21:05:54.771(Timestamp), 新闻内容 - 1388619676(String)
+2017-10-31 21:05:55,292 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - <==    Updates: 1
+2017-10-31 21:05:59,691 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - ==>  Preparing: INSERT INTO news(title,pub_date,note) VALUES (?,?,?) 
+2017-10-31 21:05:59,724 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - ==> Parameters: 新闻标题 - 1797988317(String), 2017-10-31 21:05:59.208(Timestamp), 新闻内容 - 1797988317(String)
+2017-10-31 21:05:59,725 DEBUG [cn.mldn.mapping.NewsNS.doCreate] - <==    Updates: 1
